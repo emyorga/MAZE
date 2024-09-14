@@ -1,2 +1,2 @@
-# MAZE
-creepy scary maze get out !
+# CREEPY MAZE
+Collect the souls with 'W'A'S'D' to escape purgitory!
